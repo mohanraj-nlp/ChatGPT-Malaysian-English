@@ -1,6 +1,6 @@
 # ChatGPT-Malaysian-English
 
-#### Research Paper: How well ChatGPT understand Malaysian English? An Evaluation on Named Entity Recognition and Relation Extraction [arXiv](https://arxiv.org/abs/2311.11583)
+#### Research Paper: How well ChatGPT understand Malaysian English? An Evaluation on Named Entity Recognition and Relation Extraction [Paper Link](https://arxiv.org/abs/2311.11583)
 ## Repository Structure
 
 There are total of 90 Experiments has been conducted. This 90 Experiments are based on different NLP Task (NER or Relation Extraction), different Dataset (MEN-Dataset, DocRED), and different prompt settings (experimented with 18 different prompt settings.). The 90 experiments is conducted in seperate Jupyter Notebook.
